@@ -47,6 +47,4 @@ Excel (formulas only — no VBA). Built so another analyst can inherit the file 
 
 All sample numbers are fictional.
 
-## Profile
-
-Sai Siri Bandaru — Financial Analyst | FP&A | forecasting, variance analysis, Excel
+[Profile](https://github.com/saisiri-bandaru) · [Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
